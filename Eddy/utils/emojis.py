@@ -1,0 +1,5 @@
+SPARKLE = "✨"
+BLUE_HEART = ":blue_heart:"
+RIGHT_ARROW_HEAD = "➔"
+HEART_EYE = ":heart_eyes:"
+HEART_BREAK = ":broken_heart:"
